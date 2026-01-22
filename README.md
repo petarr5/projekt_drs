@@ -247,5 +247,3 @@ U direktoriju `/mnt/shared`:
 Cleanup:
 Gašenje EC2 instanci i brisanje Security Groupe, te lokalno gašenje baze. 
 
-
-Arhitektura:
