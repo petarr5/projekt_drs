@@ -244,4 +244,8 @@ U direktoriju `/mnt/shared`:
 *lsof -i :8004*
 
 
+Cleanup:
+Gašenje EC2 instanci i brisanje Security Groupe, te lokalno gašenje baze. 
 
+
+Arhitektura:
